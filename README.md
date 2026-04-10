@@ -3,7 +3,7 @@
 
 Our dataset is intended for academic use only.  We plan to release the full dataset under a licensing agreement at a later stage. (After reviewing process)
 
-If you would like to access the dataset now, please contact us via email at:    **yuen.yuen.ang [at] jhu.edu**
+If you would like to access the dataset now, please contact us via email at:    **bolun.sun@kellogg.northwestern.edu**
 
 and **please cite our paper in your work**:
 
